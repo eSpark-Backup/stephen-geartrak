@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Gear_Trak-v1.0.PcbDoc   7/8/2025  6:28:00 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : TOP LAYER to BOTTOM LAYER
+ASCII RoundHoles File : Gear_Trak-v1.0-RoundHoles.TXT
+ASCII SlotHoles File : Gear_Trak-v1.0-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             809       PTH        1115.72mm (43.93inch)
+T2      0.6mm (24mil)                                             Slot              4         PTH        38.19mm (1.50inch)
+T3      0.62mm (24mil)                                            Round             2         NPTH       5.78mm (0.23inch)
+T4      0.75mm (30mil)                                            Round             2         NPTH       8.50mm (0.33inch)
+T5      0.9mm (35mil)                                             Round             2         NPTH       3.00mm (0.12inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              819
+
+Total Processing Time (hh:mm:ss) : 00:00:00

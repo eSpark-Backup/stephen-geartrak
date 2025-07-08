@@ -1,0 +1,31 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: Gear_Trak-v1.0.GBR   7/8/2025  6:27:30 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GTL                TOP LAYER                               
+.G1                 GROUND1                                 
+.G2                 SIGNAL                                  
+.G3                 GROUND2                                 
+.G4                 POWER                                   
+.GBL                BOTTOM LAYER                            
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM2                Board Outline                           
+.GM3                Fabrication                             
+.GM7                Top Assembly                            
+.GM8                Bottom Assembly                         
+.GKO                Keep-Out Layer                          
+.GPT                Top Pad Master                          
+.GPB                Bottom Pad Master                       
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
+.GM                 Profile                                 
+------------------------------------------------------------------------------------------
