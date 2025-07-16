@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Gear_Trak-v1.0.PcbDoc   7/8/2025  6:28:00 PM
+NCDrill File Report For: Gear_Trak-v1.0.PcbDoc   7/16/2025  9:50:43 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : TOP LAYER to BOTTOM LAYER
@@ -8,12 +8,12 @@ ASCII SlotHoles File : Gear_Trak-v1.0-SlotHoles.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      0.2mm (8mil)                                              Round             809       PTH        1115.72mm (43.93inch)
-T2      0.6mm (24mil)                                             Slot              4         PTH        38.19mm (1.50inch)
-T3      0.62mm (24mil)                                            Round             2         NPTH       5.78mm (0.23inch)
+T1      0.2mm (8mil)                                              Round             786       PTH        1071.83mm (42.20inch)
+T2      0.45mm (18mil)                                            Slot              4         PTH        34.86mm (1.37inch)
+T3      3.1mm (122mil)                                            Round             2         PTH        36.93mm (1.45inch)
 T4      0.75mm (30mil)                                            Round             2         NPTH       8.50mm (0.33inch)
 T5      0.9mm (35mil)                                             Round             2         NPTH       3.00mm (0.12inch)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              819
+Totals                                                                              796
 
 Total Processing Time (hh:mm:ss) : 00:00:00
